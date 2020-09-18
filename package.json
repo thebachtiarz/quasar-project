@@ -19,7 +19,7 @@
     "jquery": "^3.5.1",
     "jquery.easing": "^1.4.1",
     "mobile-device-detect": "^0.3.3",
-    "node-forge": "^0.9.1",
+    "node-forge": "^0.10.0",
     "quasar": "^1.11.2",
     "sweetalert2": "^9.10.13",
     "vue-meta": "^2.3.3"
