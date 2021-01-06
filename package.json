@@ -14,7 +14,7 @@
   "dependencies": {
     "@quasar/extras": "^1.8.1",
     "admin-lte": "^3.0.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "generate-password": "^1.5.1",
     "jquery": "^3.5.1",
     "jquery.easing": "^1.4.1",
